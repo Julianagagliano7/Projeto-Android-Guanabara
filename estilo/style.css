@@ -75,6 +75,7 @@ header > p {
     max-width: 500px;
     margin: auto;
     text-shadow: 2px 2px 0px #00000098;
+    padding-bottom: 50px;
 }
 
 header > h1 {
