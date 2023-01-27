@@ -7,7 +7,7 @@
 <img src="img - done/android project - 4.png">
 <img src="img - done/android project - 5.png">
 
-#Deploy 
+##Deploy 
 
-<a href="https://julianagagliano7.github.io/Projeto-Android-Guanabara/index.html" target="_blank" rel="external"></a>
+https://julianagagliano7.github.io/Projeto-Android-Guanabara/
 
